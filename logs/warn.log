@@ -1,0 +1,10 @@
+[2019-07-11 20:53:10] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner 166 doScan - No MyBatis mapper was found in '[com]' package. Please check your configuration.
+[2019-07-11 20:53:11] WARN  org.springframework.context.support.AbstractApplicationContext 557 refresh - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'ud'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.dao.UsersDao' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true), @org.springframework.beans.factory.annotation.Qualifier(value=userdao)}
+[2019-07-11 22:24:30] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /
+[2019-07-11 22:24:30] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /csrf
+[2019-07-11 22:26:00] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /
+[2019-07-11 22:26:00] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /csrf
+[2019-07-11 22:29:06] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /
+[2019-07-11 22:29:06] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /csrf
+[2019-07-11 22:34:14] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /
+[2019-07-11 22:34:14] WARN  org.springframework.web.servlet.DispatcherServlet 1249 noHandlerFound - No mapping for GET /csrf

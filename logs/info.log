@@ -1,0 +1,323 @@
+[2019-07-11 20:53:07] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 11416 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 20:53:07] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 20:53:11] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 20:53:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 20:53:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 20:53:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 20:53:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 20:53:11] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 3684 ms
+[2019-07-11 20:53:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Stopping service [Tomcat]
+[2019-07-11 20:55:36] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 9328 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 20:55:36] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 20:55:38] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 20:55:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 20:55:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 20:55:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 20:55:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 20:55:38] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2352 ms
+[2019-07-11 20:55:38] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 20:55:38] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 20:55:39] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 20:55:39] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 20:55:39] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.947 seconds (JVM running for 4.76)
+[2019-07-11 20:56:31] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 20:56:31] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 20:56:31] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 6 ms
+[2019-07-11 20:59:16] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 11744 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 20:59:16] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 20:59:18] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 20:59:18] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 20:59:18] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 20:59:18] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 20:59:18] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 20:59:18] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2244 ms
+[2019-07-11 20:59:18] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 20:59:19] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 20:59:19] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 20:59:19] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 20:59:19] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.617 seconds (JVM running for 4.663)
+[2019-07-11 20:59:41] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 20:59:41] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 20:59:41] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 7 ms
+[2019-07-11 21:00:57] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 5792 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:00:57] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:00:59] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:00:59] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:00:59] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:00:59] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:00:59] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:00:59] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2284 ms
+[2019-07-11 21:00:59] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:01:00] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:01:00] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:01:00] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:01:00] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.604 seconds (JVM running for 4.478)
+[2019-07-11 21:01:53] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:01:53] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:01:53] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 7 ms
+[2019-07-11 21:03:13] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 1592 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:03:13] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:03:15] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:03:15] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:03:15] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:03:16] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:03:16] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:03:16] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2294 ms
+[2019-07-11 21:03:16] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:03:16] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:03:16] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:03:17] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:03:17] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.867 seconds (JVM running for 4.772)
+[2019-07-11 21:03:35] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:03:35] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:03:35] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 8 ms
+[2019-07-11 21:04:55] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 10408 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:04:55] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:04:57] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:04:57] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:04:57] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:04:58] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:04:58] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:04:58] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2369 ms
+[2019-07-11 21:04:58] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:04:58] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:04:58] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:04:59] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:04:59] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.793 seconds (JVM running for 4.648)
+[2019-07-11 21:05:03] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 8884 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:05:03] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:05:05] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:05:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:05:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:05:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:05:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:05:05] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2314 ms
+[2019-07-11 21:05:05] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:05:05] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:05:06] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:05:06] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:05:06] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.593 seconds (JVM running for 4.774)
+[2019-07-11 21:05:27] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:05:27] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:05:27] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 8 ms
+[2019-07-11 21:06:02] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 2312 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:06:02] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:06:05] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:06:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:06:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:06:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:06:05] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:06:05] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2403 ms
+[2019-07-11 21:06:05] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:06:05] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:06:06] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:06:06] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:06:06] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.952 seconds (JVM running for 4.981)
+[2019-07-11 21:06:07] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:06:07] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:06:07] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 6 ms
+[2019-07-11 21:30:40] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 7408 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:30:40] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:30:42] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:30:42] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:30:42] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:30:42] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:30:42] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:30:42] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2672 ms
+[2019-07-11 21:30:43] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:30:43] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:30:43] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:30:43] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:30:43] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 4.09 seconds (JVM running for 5.116)
+[2019-07-11 21:30:44] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:30:44] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:30:44] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 6 ms
+[2019-07-11 21:45:08] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 12204 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:45:08] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:45:10] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:45:10] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:45:10] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:45:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:45:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:45:11] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2729 ms
+[2019-07-11 21:45:11] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:45:11] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:45:11] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:45:12] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:45:12] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 4.21 seconds (JVM running for 5.25)
+[2019-07-11 21:45:16] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:45:16] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:45:16] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 6 ms
+[2019-07-11 21:46:33] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 10408 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:46:33] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:46:35] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:46:35] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:46:35] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:46:36] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:46:36] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:46:36] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2393 ms
+[2019-07-11 21:46:36] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:46:36] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:46:36] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:46:36] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:46:36] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.843 seconds (JVM running for 5.139)
+[2019-07-11 21:46:37] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:46:37] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:46:37] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 7 ms
+[2019-07-11 21:52:26] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 7804 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:52:26] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:52:28] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:52:28] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:52:28] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:52:28] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:52:28] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:52:28] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2278 ms
+[2019-07-11 21:52:28] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:52:28] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:52:29] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:52:29] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:52:29] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.987 seconds (JVM running for 4.794)
+[2019-07-11 21:52:36] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 2612 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:52:36] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:52:38] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:52:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:52:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:52:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:52:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:52:38] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2313 ms
+[2019-07-11 21:52:38] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:52:39] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:52:39] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:52:39] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:52:39] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.738 seconds (JVM running for 4.738)
+[2019-07-11 21:53:01] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 3604 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:53:01] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:53:03] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:53:03] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:53:03] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:53:03] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:53:03] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:53:03] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2443 ms
+[2019-07-11 21:53:03] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:53:03] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:53:04] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:53:04] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:53:04] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.871 seconds (JVM running for 4.795)
+[2019-07-11 21:53:14] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 12496 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:53:14] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:53:16] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:53:16] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:53:16] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:53:16] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:53:16] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:53:16] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2425 ms
+[2019-07-11 21:53:16] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:53:16] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:53:17] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:53:17] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:53:17] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.807 seconds (JVM running for 4.947)
+[2019-07-11 21:53:49] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 2720 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:53:49] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:53:51] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:53:51] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:53:51] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:53:51] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:53:51] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:53:51] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2413 ms
+[2019-07-11 21:53:51] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:53:51] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:53:52] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:53:52] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:53:52] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.834 seconds (JVM running for 4.947)
+[2019-07-11 21:54:45] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 2116 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:54:45] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:54:48] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:54:48] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:54:48] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:54:48] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:54:48] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:54:48] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2692 ms
+[2019-07-11 21:54:48] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:54:48] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:54:49] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:54:49] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:54:49] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 4.328 seconds (JVM running for 5.26)
+[2019-07-11 21:54:53] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:54:53] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:54:53] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 6 ms
+[2019-07-11 21:57:06] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 2444 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 21:57:06] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 21:57:09] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 21:57:09] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 21:57:09] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 21:57:09] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 21:57:09] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 21:57:09] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2264 ms
+[2019-07-11 21:57:09] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 21:57:09] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 21:57:10] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 171 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2019-07-11 21:57:10] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 21:57:10] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 3.762 seconds (JVM running for 4.535)
+[2019-07-11 21:57:14] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 21:57:14] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 21:57:14] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 4 ms
+[2019-07-11 22:23:35] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 7140 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 22:23:35] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 22:23:37] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker 330 postProcessAfterInitialization - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$183f946a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[2019-07-11 22:23:38] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 22:23:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 22:23:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 22:23:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 22:23:38] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 22:23:38] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2601 ms
+[2019-07-11 22:23:38] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 22:23:38] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 22:23:39] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping 69 initHandlerMethods - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[2019-07-11 22:23:39] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper 160 start - Context refreshed
+[2019-07-11 22:23:39] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper 163 start - Found 1 custom documentation plugin(s)
+[2019-07-11 22:23:39] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner 41 scan - Scanning for api listing references
+[2019-07-11 22:23:39] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 22:23:39] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 4.526 seconds (JVM running for 5.344)
+[2019-07-11 22:24:29] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 22:24:29] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 22:24:29] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 5 ms
+[2019-07-11 22:25:55] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 1436 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 22:25:55] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 22:25:58] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker 330 postProcessAfterInitialization - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ea580bce] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[2019-07-11 22:25:58] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 22:25:58] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 22:25:58] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 22:25:58] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 22:25:58] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 22:25:58] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2804 ms
+[2019-07-11 22:25:58] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 22:25:59] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 22:25:59] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping 69 initHandlerMethods - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[2019-07-11 22:25:59] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper 160 start - Context refreshed
+[2019-07-11 22:25:59] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper 163 start - Found 1 custom documentation plugin(s)
+[2019-07-11 22:25:59] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner 41 scan - Scanning for api listing references
+[2019-07-11 22:26:00] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 22:26:00] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 4.73 seconds (JVM running for 5.636)
+[2019-07-11 22:26:00] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 22:26:00] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 22:26:00] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 8 ms
+[2019-07-11 22:34:09] INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringbootApplication on DESKTOP-K9CL20V with PID 9240 (E:\idea_project\target\classes started by wf in E:\idea_project)
+[2019-07-11 22:34:09] INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+[2019-07-11 22:34:11] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker 330 postProcessAfterInitialization - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6eb9c4a7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[2019-07-11 22:34:11] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 90 initialize - Tomcat initialized with port(s): 9001 (http)
+[2019-07-11 22:34:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2019-07-11 22:34:11] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-07-11 22:34:12] INFO  org.apache.juli.logging.DirectJDKLog 173 log - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[2019-07-11 22:34:12] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2019-07-11 22:34:12] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 283 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 2572 ms
+[2019-07-11 22:34:12] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure 56 dataSource - Init DruidDataSource
+[2019-07-11 22:34:12] INFO  com.alibaba.druid.pool.DruidDataSource 928 init - {dataSource-1} inited
+[2019-07-11 22:34:12] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping 69 initHandlerMethods - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[2019-07-11 22:34:13] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper 160 start - Context refreshed
+[2019-07-11 22:34:13] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper 163 start - Found 1 custom documentation plugin(s)
+[2019-07-11 22:34:13] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner 41 scan - Scanning for api listing references
+[2019-07-11 22:34:13] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 202 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2019-07-11 22:34:13] INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringbootApplication in 4.607 seconds (JVM running for 5.518)
+[2019-07-11 22:34:13] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-07-11 22:34:13] INFO  org.springframework.web.servlet.FrameworkServlet 524 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2019-07-11 22:34:13] INFO  org.springframework.web.servlet.FrameworkServlet 546 initServletBean - Completed initialization in 8 ms
